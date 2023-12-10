@@ -35,7 +35,7 @@ const styles = StyleSheet.create({
   view: {
     backgroundColor: "#bdbdbd",
     borderRadius: 30,
-    width: 400, // largo de la carta
+    width: "98%", // largo de la carta
     alignItems: "center",
     justifyContent: "space-evenly",
     flexDirection: "row",

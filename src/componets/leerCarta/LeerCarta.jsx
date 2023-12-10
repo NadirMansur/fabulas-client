@@ -56,7 +56,7 @@ const styles = StyleSheet.create({
     shadowColor: "#5002af",
   },
   botones: {
-    width: 300,
+    width: "80%",
     //backgroundColor: "red",
     flexDirection: "row",
     justifyContent: "space-evenly",
